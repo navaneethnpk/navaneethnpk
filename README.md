@@ -38,5 +38,26 @@ Reach me: **npknavaneeth@gmail.com**
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 <hr/> 
-
-
+<h4 align="left">Programming Languages:</h4>
+<p align="left">
+<code>Python</code>
+<code>C++</code>
+<code>C</code>
+<code>SQL</code>
+<code>HTML</code>
+<code>CSS</code></p>
+<h4 align="left">Programming Tools & Libraries:</h4>
+<p align="left">
+<code>LaTeX</code>
+<code>Markdown</code>
+<code>HUGO</code>
+<code>Git</code>
+<h4 align="left">Design Software:</h4>
+<p align="left">
+<code>Photoshop</code>
+<code>Illustrator</code>
+<code>InDesign</code>
+<code>Canva</code>
+<h4 align="left">Productivity Software:</h4>
+<p align="left">
+<code>Notion</code>
