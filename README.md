@@ -18,4 +18,5 @@ Hi there! My name is Navaneeth P K. I am a postgraduate in physics from the Cent
 <hr/> 
 <h3>Programming:</h3>
 <img src="img/windows.png" width=40>
+<img src="img/ubuntu.png" width=40>
 
