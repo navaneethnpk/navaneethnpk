@@ -45,6 +45,7 @@ Reach me: **npknavaneeth@gmail.com**
 <code>SQL</code>
 <code>HTML</code>
 <code>CSS</code>
+<code>Markdown</code>
 <code>Ubundu</code>
 <code>Windows</code>
 <code>MS Office</code>
@@ -52,18 +53,22 @@ Reach me: **npknavaneeth@gmail.com**
 <code>Spyder</code>
 <code>Jupyter</code>
 <code>Android Studio</code>
-
-
-<code>LaTeX</code>
-<code>Markdown</code>
 <code>HUGO</code>
 <code>Git</code>
-
+<code>VS Code</code>
 <code>Photoshop</code>
 <code>Illustrator</code>
 <code>InDesign</code>
+<code>Lightroom</code>
 <code>Canva</code>
-
+<code>AstroPy</code>
+<code>NumPy</code>
+<code>Matplotlib</code>
+<code>Pandas</code>
+<code>IRAF</code>
+<code>PyRAF</code>
+<code>TOPCAT</code>
+<code>SAOImageDS9</code>
+<code>Aladin</code>
+<code>LaTeX</code>
 <code>Notion</code>
-
-<code></code>
