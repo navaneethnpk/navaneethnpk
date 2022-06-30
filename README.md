@@ -17,8 +17,6 @@ Reach me: **npknavaneeth@gmail.com**
 <a href="https://dribbble.com/navaneethnpk" target="blank"><img align="center" 
     src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white" height="30"/></a>  
 <hr/> 
-
-
 <code>Python</code>
 <code>C++</code>
 <code>C</code>
