@@ -10,7 +10,7 @@ Hi there! My name is **Navaneeth P K**. I am a postgraduate in physics from the 
 <code>HTML</code>
 <code>CSS</code>
 <code>Markdown</code>
-<code>Ubundu</code>
+<code>Linux</code>
 <code>Windows</code>
 <code>MS Office</code>
 <code>Anaconda</code>
