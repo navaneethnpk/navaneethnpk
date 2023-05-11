@@ -10,43 +10,35 @@ Hi there! My name is **Navaneeth P K**. I am a postgraduate in physics from the 
 <code>HTML</code>
 <code>CSS</code>
 <code>IDL</code>
-
 <code>LaTeX</code>
 <code>Markdown</code>
-
 <code>Linux</code>
 <code>Windows</code>
-
 <code>Notion</code>
 <code>MS Office</code>
 <code>Google Docs Editors</code>
 <code>Mathtype</code>
-
 <code>Anaconda</code>
 <code>Spyder</code>
 <code>Jupyter</code>
 <code>Git/Github</code>
 <code>VS Code</code>
 <code>Android Studio</code>
-
 <code>HUGO</code>
 <code>Jekyll</code>
 <code>Wordpress</code>
-
 <code>Photoshop</code>
 <code>Illustrator</code>
 <code>InDesign</code>
 <code>Lightroom</code>
 <code>Canva</code>
 <code>Figma</code>
-
 <code>AstroPy</code>
 <code>NumPy</code>
 <code>Matplotlib</code>
 <code>Pandas</code>
 <code>Seaborn</code>
 <code>Selenium</code>
-
 <code>IRAF</code>
 <code>PyRAF</code>
 <code>TOPCAT</code>
