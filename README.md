@@ -27,8 +27,6 @@
 <i>Operating Systems</i><br>
 <img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-%230078D6?style=flat-square&logo=windows&logoColor=white">
 
-
-
 <i>Document Editing and Productivity</i><br>
 <img src="https://img.shields.io/badge/MS%20Office-%23D83B01?style=flat-square&logo=microsoft-office&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Docs%20Editors-%234285F4?style=flat-square&logo=google-docs&logoColor=white"> <img src="https://img.shields.io/badge/MathType-%23FF9900?style=flat-square&logo=mathtype&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=white">
 
