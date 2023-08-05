@@ -4,7 +4,6 @@ Hi there! My name is **Navaneeth P K**. I am a postgraduate in physics from the 
 
 <hr/> 
 Programming Languages: Python, C++, C, SQL, JavaScript 
-
 Web Development: HTML, CSS, WordPress, HUGO, Jekyll  
 Integrated Development Environments (IDEs): Anaconda, Spyder, Jupyter, Git/Github, VS Code, Android Studio  
 Data Analysis and Visualization: NumPy, Matplotlib, Pandas, Seaborn  
