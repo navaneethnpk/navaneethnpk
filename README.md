@@ -1,6 +1,6 @@
 Hi there! My name is **Navaneeth P K**. I am a postgraduate in physics from the Central University of Karnataka. I live in Kerala, India. Right now, I am looking forward to my research career in astrophysics.
 <hr/>  
-<h4>Connect With Me: <a href="https://navaneethpk.com/" target="blank">Web</a>, <a href="mailto:navaneethrasikapriya@gmail.com" target="blank">Mail</a></h4>
+<h4>Connect With Me: <a href="https://navaneethpk.com/" target="blank">navaneethpk.com</a>, <a href="mailto:navaneethrasikapriya@gmail.com" target="blank">navaneethrasikapriya@gmail.com</a></h4>
 
 <hr/> 
 <code>Python</code>
