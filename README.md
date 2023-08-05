@@ -4,6 +4,10 @@ Hi there! My name is **Navaneeth P K**. I am a postgraduate in physics from the 
 
 <hr/> 
 Programming Languages:: Python, C++, C, SQL, JavaScript   <br>
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+|--|--|--|--|--|
+
 Web Development:: HTML, CSS, WordPress, HUGO, Jekyll   <br>
 Integrated Development Environments (IDEs):: Anaconda, Spyder, Jupyter, Git/Github, VS Code, Android Studio   <br>
 Data Analysis and Visualization:: NumPy, Matplotlib, Pandas, Seaborn   <br>
