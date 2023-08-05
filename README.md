@@ -4,7 +4,11 @@ Hi there! My name is **Navaneeth P K**. I am a postgraduate in physics from the 
 
 <hr/> 
 Programming Languages:: Python, C++, C, SQL, JavaScript   <br>
-<img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%2300599C?style=flat-square&logo=sql&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+
+ 
+
 
 
 Web Development:: HTML, CSS, WordPress, HUGO, Jekyll   <br>
