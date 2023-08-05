@@ -5,7 +5,7 @@ Hi there! My name is **Navaneeth P K**. I am a postgraduate in physics from the 
 <hr/> 
 Programming Languages:: Python, C++, C, SQL, JavaScript   <br>
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A">
-![ alt text ](https://img.shields.io/badge/Tesla-text-CC0000?style=for-the-badge&log=Tesla)
+<img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square">
 
 Web Development:: HTML, CSS, WordPress, HUGO, Jekyll   <br>
 Integrated Development Environments (IDEs):: Anaconda, Spyder, Jupyter, Git/Github, VS Code, Android Studio   <br>
