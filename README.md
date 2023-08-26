@@ -4,7 +4,7 @@
 <hr/> 
 
 <i>Programming Languages</i><br>
-<img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-%230x00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%2300599C?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/IDL-%235C4E63?style=flat-square&logo=NASA&logoColor=white">
+<img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-%230x00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%2300599C?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
 <i>Web Development</i><br>
 <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/WordPress-%2321759B?style=flat-square&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/Hugo-%23FF4088?style=flat-square&logo=hugo&logoColor=white"> <img src="https://img.shields.io/badge/Jekyll-%23CC0000?style=flat-square&logo=jekyll&logoColor=white"> 
