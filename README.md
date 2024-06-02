@@ -1,2 +1,2 @@
-<p>Hi there! My name is <b>Navaneeth P K</b>. I am a postgraduate in physics from the Central University of Karnataka. I live in Kerala, India. Right now, I am looking forward to my research career in astrophysics.</p>
-<p>Connect With Me: <a href="https://navaneethpk.com/" target="blank">navaneethpk.com</a>, <a href="mailto:navaneethrasikapriya@gmail.com" target="blank">navaneethrasikapriya@gmail.com</a></p>
+<p>Hi there! My name is <b>Navaneeth P K</b>. I am a research scholar in Astrophysics from India. Right now, I am Focusing on my research career.</p>
+<p>Connect With Me: <a href="mailto:navaneethrasikapriya@gmail.com" target="blank">navaneethrasikapriya@gmail.com</a></p>
